@@ -5,7 +5,7 @@ DEVELOPED BY : Jashwana Fathima S
 
 REGISTER NO: 212222040059
 
-DATE : 12.08.2024
+DATE : 19.08.2024
 ## AIM:
 
 To create Hello world Activity using all lifecycles methods to display messages using android studio.

@@ -1,11 +1,11 @@
 ## BASIC-ANDROID-_EX_01_Implementation of a Hello world Activity using all lifecycles methods using Android Studio.
 ## PROGRAM
 
-DEVELOPED BY : Jashwana Fathima S
+DEVELOPED BY : JANARTHANAN S
 
-REGISTER NO: 212222040059
+REGISTER NO: 212222040058
 
-DATE : 19.08.2024
+
 ## AIM:
 
 To create Hello world Activity using all lifecycles methods to display messages using android studio.
